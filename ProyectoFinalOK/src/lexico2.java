@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 
 
-public class lexico {
+public class lexico2 {
     private FileReader entrada;
     private String letra="AINTPYWaintpyw";
     private String num="0123456789";
@@ -97,7 +97,7 @@ public class lexico {
    // private String permitidoLetra="_-ABCDEFabcdef0123456789GHIJLLMNOPQRSTUVWXYZghijklmnopqrstuvwxyz";
     private boolean correcto;
 
-    public lexico(){
+    public lexico2(){
         entrada=null;
     }
 
