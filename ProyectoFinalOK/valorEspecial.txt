@@ -1,0 +1,16 @@
+center
+arial
+static
+absolute
+fixed
+relative
+inherit
+none
+bold
+underline
+left
+right
+tahoma
+sans-serif
+verdana
+solid
